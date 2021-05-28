@@ -23,13 +23,13 @@ header {
   width: 500px;
 }
 
-.menu_item:hover {
+.menu_item_link:hover {
   color: #F38181;
   padding-bottom: 11px;
   border-bottom: 3px solid #F38181;
 }
 
-.menu_item {
+.menu_item_link {
     color: #95E1D3;
     font-weight: 400;
     font-size: 14px;
